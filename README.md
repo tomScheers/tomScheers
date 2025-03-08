@@ -5,9 +5,9 @@ I've been learning to program since May of 2023, and I've learned about various 
 
 ## Projects
 I've made several projects in languages like Python and C, here are a few examples:
-- [Infinite Monkey Theorum Simulator](https://github.com/tomScheers/Infinite_Monkey_Theorum) | Python
+- [ASCII-powered Facecam](https://github.com/tomScheers/nFace) | C
 - [Bingo Card Generator](https://github.com/tomScheers/Bingo_Card_Generator) | C
-- [Morse Code Transcriber](https://github.com/tomScheers/Morse_Code) | Python  
+- [Chess](https://github.com/tomScheers/Chess) | Python  
 And much more to come!
 
 ## Contact 🤙
